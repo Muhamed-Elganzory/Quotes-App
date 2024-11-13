@@ -1,0 +1,17 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 80px !important;
+    color: #000 !important;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif !important;
+    font-weight: 400 !important;
+    font-size: 35px !important;
+    color: #000 !important;
+}
+
+.btn-quote:hover {
+    background-color: #424aa8 !important;
+}
